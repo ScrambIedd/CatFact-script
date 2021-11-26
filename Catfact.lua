@@ -1,5 +1,5 @@
--- made by ethan?#5422 if you got this far in unobfuscating :)
-
+-- made by ethan?#5422
+-- just a fun experiment so dont try and dox me on discord for not making a loop
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
